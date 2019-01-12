@@ -1,6 +1,8 @@
-const str = 'ES6'
-console.log(`Hello ${str}`)
+/* eslint-disable no-console */
+import Dog from './dog';
 
-import Dog from './dog'
-const tody = new Dog('Tody')
-console.log(tody.bark())
+const str = 'ES6';
+console.log(`Hello ${str}`);
+
+const tody = new Dog('Tody');
+console.log(tody.bark());
