@@ -9,6 +9,7 @@ const renderApp = (title) =>
   </head>
   <body>
     <h1>${title}</h1>
+	nodemon!
   </body>
 </html>
 `
