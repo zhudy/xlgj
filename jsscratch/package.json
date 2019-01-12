@@ -4,7 +4,7 @@
   "description": "dave2research",
   "main": "index.js",
   "scripts": {
-    "test": "eslint src",
+    "test": "eslint src && jest --coverage",
     "start": "babel-node src"
   },
   "author": "",
