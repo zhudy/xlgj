@@ -8,5 +8,8 @@
     "start": "node ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "color": "^3.1.0"
+  }
 }
