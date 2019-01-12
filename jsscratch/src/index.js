@@ -1,6 +1,6 @@
 const str = 'ES6'
 console.log(`Hello ${str}`)
 
-const Dog= require('./dog')
+import Dog from './dog'
 const tody = new Dog('Tody')
 console.log(tody.bark())
