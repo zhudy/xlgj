@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.5",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "compression": "^1.7.3",
@@ -25,6 +27,8 @@
     "install": "^0.12.2",
     "jest": "^23.6.0",
     "nodemon": "^1.18.9",
-    "npm": "^6.5.0"
+    "npm": "^6.5.0",
+    "webpack": "^4.28.4",
+    "webpack-dev-server": "^3.1.14"
   }
 }
